@@ -2,7 +2,7 @@
 Este software premite a abertura de uma webcam, ou uma camera usb.
 oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 
-import cv2 -> <Importa OpenCV Python>
+import cv2 -> Importa OpenCV Python
 
 import numpy as np -> Importa biblioteca Numpy, e a apelida de np
 
