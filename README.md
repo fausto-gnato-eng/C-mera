@@ -1,7 +1,8 @@
 # Camera
 Este software premite a abertura de uma webcam, ou uma camera usb.
-oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.
-import cv2.
+oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+import cv2
 import numpy as np
 cap = cv2.VideoCapture(0)
 
