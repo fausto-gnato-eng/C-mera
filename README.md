@@ -6,7 +6,7 @@ import cv2 -> Importa OpenCV Python
 
 import numpy as np -> Importa biblioteca Numpy, e a apelida de np
 
-cap = cv2.VideoCapture(0) -> Declara variavel de captura de videocom parametro localizador (0)
+cap = cv2.VideoCapture(0) -> Declara variavel de captura de video com parametro localizador = 0
 
 while True:
    _, frame = cap.read()
