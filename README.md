@@ -1,6 +1,7 @@
 # Camera
 Este software premite a abertura de uma webcam, uma camera usb, ou mesmo uma câmera remota. É importante destacar este parâmetro pode ser alterado de tal forma que possa corresponder a uma câmera ligada em uma porta USB, ou mesmo correspondendo a um IP de uma câmera remota. Para que seja acessada uma câmera remota o IP deve vir entre aspas dupla, com /video após o mesmo ("IP/video"). Para acessar a câmera de um celular remotamente é necessario instalar um aplicativo IP WebCam a fim de que o mesmo crie um fluxo de streamer e também forneça o IP do celular. o IP a ser utilixado deve ser o "https".
-oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 import cv2 -> Importa OpenCV Python
 
