@@ -6,7 +6,7 @@ import cv2 -> Importa OpenCV Python
 
 import numpy as np -> Importa biblioteca Numpy, e a apelida de np
 
-cap = cv2.VideoCapture(0) -> Declara variavel de captura de video com parametro localizador = 0
+cap = cv2.VideoCapture(0) -> Declara variavel de captura de video com parâmetro localizador = 0. É importante destacar este parâmetro pode ser alterado de tal forma que possa corresponder a uma camera ligada em uma porta USB, ou mesmo correspondendo a um IP de uma camera remota. 
 
 while True: -> Cria loop infinito para atualixaçao de frames.
 
